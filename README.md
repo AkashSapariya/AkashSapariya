@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkashSapariya
-- 👀 I’m interested in learning python, R, AI, ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data analyst Projects
+- 🌱 Currently in the training/testing phase
+- 💞️ I’m looking to collaborate on M.L/NLP/ComputerVision Projects
 - 📫 How to reach me 'akashsapariya' follow me on instagram
 
 <!---
