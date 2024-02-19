@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AkashSapariya
-- 🌱 Currently in the training/testing phase
 - 💞️ I’m looking to collaborate on M.L/NLP/ComputerVision Projects
 
 <!---
